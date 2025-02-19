@@ -1,0 +1,89 @@
+-----------------------------------------------
+
+
+>>>>>  Point log (Build Dec 29 2010 14:30:40)  <<<<<
+[20170920 20:06:59] PointBuyItem timeout: user='DarkSidePT' pt=0 cr=0 ret=3
+-----------------------------------------------
+
+
+>>>>>  Point log (Build Dec 29 2010 14:30:40)  <<<<<
+[20171112 22:43:05] PointBuyItem timeout: user='LordJhonatan' pt=0 cr=0 ret=3
+-----------------------------------------------
+
+
+>>>>>  Point log (Build Dec 29 2010 14:30:40)  <<<<<
+[20171113 15:00:36] PointBuyItem timeout: user='Sin' pt=0 cr=0 ret=3
+[20171113 15:00:36] PointBuyItem timeout: user='Sin' pt=0 cr=0 ret=3
+[20171113 20:09:30] PointBuyItem timeout: user='Sin' pt=0 cr=0 ret=3
+[20171113 20:34:06] PointBuyItem timeout: user='Sin' pt=0 cr=0 ret=3
+[20171113 21:18:29] PointBuyItem timeout: user='Sin' pt=0 cr=0 ret=3
+[20171113 21:18:29] PointBuyItem timeout: user='Sin' pt=0 cr=0 ret=3
+[20171113 21:38:41] PointBuyItem timeout: user='Sin' pt=0 cr=0 ret=3
+[20171113 23:26:08] PointBuyItem timeout: user='Sin' pt=0 cr=0 ret=3
+[20171113 23:26:08] PointBuyItem timeout: user='Sin' pt=0 cr=0 ret=3
+[20171114 12:20:33] PointBuyItem timeout: user='Toy' pt=0 cr=0 ret=3
+[20171115 21:03:43] PointBuyItem timeout: user='Keke00' pt=0 cr=0 ret=3
+[20171115 21:03:43] PointBuyItem timeout: user='Keke00' pt=0 cr=0 ret=3
+[20171115 22:59:41] PointBuyItem timeout: user='xEnYx' pt=0 cr=0 ret=3
+[20171116 15:00:00] PointBuyItem timeout: user='oKrasi' pt=0 cr=0 ret=3
+[20171116 16:52:01] PointBuyItem timeout: user='ShyoN' pt=0 cr=0 ret=3
+[20171116 16:52:01] PointBuyItem timeout: user='ShyoN' pt=0 cr=0 ret=3
+[20171116 21:51:32] PointBuyItem timeout: user='oKrasi' pt=0 cr=0 ret=3
+[20171116 21:51:35] PointBuyItem timeout: user='oKrasi' pt=0 cr=0 ret=3
+[20171116 21:51:35] PointBuyItem timeout: user='oKrasi' pt=0 cr=0 ret=3
+[20171117 21:33:22] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:22] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:22] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:22] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:22] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:25] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:25] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:25] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:25] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:25] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:32] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:32] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:32] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:35] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:35] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:35] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:38] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:39] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:40] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:40] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:50] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:56] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:56] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:56] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:56] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:56] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:56] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:56] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:56] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:56] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:56] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:56] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
+[20171117 21:33:56] PointBuyItem timeout: user='Fuleragem' pt=0 cr=0 ret=3
