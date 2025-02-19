@@ -4,7 +4,9 @@ Talisman Online Private Server Setup Guide
 ![image](https://github.com/user-attachments/assets/d7784dd1-48ce-4084-83c3-ba549d08e247)
 
 
-This guide will walk you through setting up the Talisman Online Private Server on **Ubuntu 20.04**. Could you follow each step carefully? If you’re interested in custom events—such as **Last Man Standing**, **Guild Battle Royale**, and many more—please contact me for details!
+This guide will walk you through setting up the Talisman Online Private Server on **Ubuntu 20.04**.
+
+I’ve already developed unique events like Last Man Standing and Guild Battle Royale, and I’m available to collaborate if you’re interested in integrating or purchasing these events for your game. If you have an event idea—or need something tailor-made—let’s work together to bring it to life!
 
 * * *
 
