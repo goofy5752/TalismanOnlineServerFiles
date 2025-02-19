@@ -125,6 +125,7 @@ To login to your SQL DB, run:
 **What this does:**  
 Install necessary 32-bit libraries and dependencies to ensure compatibility with any 32-bit binaries in the server.
 
+`chmod -R 777 /root/TalismanServerFiles`
 
 `sudo apt install lib32stdc++6`
 
@@ -182,10 +183,10 @@ Disables Ubuntu’s UFW firewall. _(Note: This step is needed and without it it 
 Opens the MySQL shell and inserts some initial accounts into your `db_account` database. Modify or add entries as needed.
 
 1.  Open the MySQL shell:
-    
-    `sudo mysql -u root -p`
 
-    then you enter your password
+`sudo mysql -u root -p`
+
+then you enter your password
     
 3.  In the MySQL prompt, run:
     
@@ -194,6 +195,20 @@ Opens the MySQL shell and inserts some initial accounts into your `db_account` d
 `INSERT INTO t_account (name, pwd, pw2, pv) VALUES  ('testaccount', '3fc0a7acf087f549ac2b266baf94b8b1', 'qwerty123', 9), ('testaccount1', '3fc0a7acf087f549ac2b266baf94b8b1', 'qwerty123', 9), ('testaccount2', '3fc0a7acf087f549ac2b266baf94b8b1', 'qwerty123', 9), ('testaccount3', '3fc0a7acf087f549ac2b266baf94b8b1', 'qwerty123', 9);`
 
 * * *
+
+10\. Start the game server
+--------------------------
+
+Run the following command 
+
+`sudo apt-get install screen -y`
+
+`screen -d -m ./1`
+
+`screen -d -m ./2`
+
+`screen -d -m ./3`
+
 
 Final Notes
 -----------
