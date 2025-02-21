@@ -203,7 +203,6 @@ then you enter your password
 
 Run the following command 
 
-`sudo apt-get install screen -y`
 
 `screen -d -m ./1`
 
