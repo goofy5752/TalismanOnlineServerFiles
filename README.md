@@ -28,7 +28,7 @@ Updates your package lists and installs Git to clone the server files repository
 **What this does:**  
 Clones the repository containing the server files and moves its contents to your home directory.
 
-`git clone https://github.com/goofy5752/TalismanOnlinePrivateServerFiles.git`
+`https://github.com/goofy5752/TalismanOnlineServerFiles.git`
 
 * * *
 
