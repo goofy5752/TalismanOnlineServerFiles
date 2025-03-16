@@ -30,7 +30,7 @@ Updates your package lists and installs Git to clone the server files repository
 **What this does:**  
 Clones the repository containing the server files and moves its contents to your home directory.
 
-`https://github.com/goofy5752/TalismanOnlineServerFiles.git`
+`git clone https://github.com/goofy5752/TalismanOnlineServerFiles.git`
 
 * * *
 
@@ -180,7 +180,21 @@ Disables Ubuntu’s UFW firewall. _(Note: This step is needed and without it it 
 
 * * *
 
-9\. Configure the Database
+9\. Start the game server
+--------------------------
+
+Run the following command 
+
+
+`screen -d -m ./1`
+
+`screen -d -m ./2`
+
+`screen -d -m ./3`
+
+* * *
+
+10\. Configure the Database
 --------------------------
 
 **What this does:**  
@@ -197,20 +211,6 @@ then you enter your password
 `USE db_account;`
 
 `INSERT INTO t_account (name, pwd, pw2, pv) VALUES  ('testaccount', '3fc0a7acf087f549ac2b266baf94b8b1', 'qwerty123', 9), ('testaccount1', '3fc0a7acf087f549ac2b266baf94b8b1', 'qwerty123', 9), ('testaccount2', '3fc0a7acf087f549ac2b266baf94b8b1', 'qwerty123', 9), ('testaccount3', '3fc0a7acf087f549ac2b266baf94b8b1', 'qwerty123', 9);`
-
-* * *
-
-10\. Start the game server
---------------------------
-
-Run the following command 
-
-
-`screen -d -m ./1`
-
-`screen -d -m ./2`
-
-`screen -d -m ./3`
 
 
 Final Notes
