@@ -210,7 +210,21 @@ then you enter your password
     
 `USE db_account;`
 
-`INSERT INTO t_account (name, pwd, pw2, pv) VALUES  ('testaccount', '3fc0a7acf087f549ac2b266baf94b8b1', 'qwerty123', 9), ('testaccount1', '3fc0a7acf087f549ac2b266baf94b8b1', 'qwerty123', 9), ('testaccount2', '3fc0a7acf087f549ac2b266baf94b8b1', 'qwerty123', 9), ('testaccount3', '3fc0a7acf087f549ac2b266baf94b8b1', 'qwerty123', 9);`
+```sql
+INSERT INTO t_account (name, pwd, pw2, pv) VALUES
+('testaccount', '3fc0a7acf087f549ac2b266baf94b8b1', 'qwerty123', 9),
+('testaccount1', '3fc0a7acf087f549ac2b266baf94b8b1', 'qwerty123', 9),
+('testaccount2', '3fc0a7acf087f549ac2b266baf94b8b1', 'qwerty123', 9),
+('testaccount3', '3fc0a7acf087f549ac2b266baf94b8b1', 'qwerty123', 9);
+```
+
+> ⚠️ Important Security Note:
+> Since this is an old game, the pwd column stores the password encrypted with MD5, which is a very weak and outdated hashing algorithm that should not be used in any modern system.
+> The pw2 column contains the password in plain text. While it might seem like a good idea to store a more secure version of the password there, it’s actually useless because the game server only uses the pwd column > (MD5) for authentication. Even if pw2 doesn’t match pwd, the user can still log in using just the MD5 hash.
+
+> Therefore, don’t waste time trying to implement stronger hashing here - the game won’t support it. Instead, you should focus all your efforts on securing your VPS and MySQL database.
+> Make sure your server is properly locked down, your database has strong access control, and remote connections are restricted.
+> If someone manages to gain access to your database, they’ll have every user’s password in plain text via the pw2 column — so server/database security is critical.
 
 
 Final Notes
