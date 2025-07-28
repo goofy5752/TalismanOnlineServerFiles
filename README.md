@@ -129,7 +129,7 @@ To login to your SQL DB, run:
 **What this does:**  
 Install necessary 32-bit libraries and dependencies to ensure compatibility with any 32-bit binaries in the server.
 
-`chmod -R 777 /root/TalismanServerFiles`
+`chmod -R 777 /root/TalismanOnlineServerFiles`
 
 `sudo apt install lib32stdc++6`
 
